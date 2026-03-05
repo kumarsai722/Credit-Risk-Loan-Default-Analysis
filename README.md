@@ -30,6 +30,37 @@ The analysis was performed using Python (Pandas), SQL, and Power BI.
 • Loan demand is concentrated between $10K–$25K range
 • Education level has moderate impact on approval decisions
 
+
+🔹 SQL Analysis (PostgreSQL)
+• Calculated overall approval rate
+
+• Segmented customers by credit score range (Poor / Average / Good)
+
+• Analyzed approval rate by employment, experience, age, and city
+
+• Created risk categories using CASE statements
+
+• Identified high-credit customers who were still rejected
+
+
+
+🧹 Data Cleaning & EDA (Python - Pandas):
+
+• Identified missing values using isna()
+
+• Handled nulls using median-based fillna()
+
+• Replaced negative Income & LoanAmount values
+
+• Checked duplicates using duplicated()
+
+• Created Loan-to-Income Ratio feature
+
+• Performed approval vs rejection group analysis
+
+• Filled missing values using fillna() (mean/median/mode)
+
+
 🛠️ Tools & Technologies Used
 
 Python
@@ -40,7 +71,6 @@ SQL (PostgreSQL)
 Power BI
 
 Bnak Loan Risk and Approval Analysis/
-Credit-Risk-Loan-Default-Analysis
 
 ├── Pandas_Data_Cleaning      → Data cleaning & EDA notebook
 
@@ -56,15 +86,7 @@ Credit-Risk-Loan-Default-Analysis
 
 └── README.md
 
-🧹 Data Cleaning Process
 
-Checked missing values using df.isna().sum()
-
-Filled missing values using fillna() (mean/median/mode)
-
-Removed duplicate rows using df.duplicated()
-
-Verified data types and corrected inconsistencies
 
 👨‍💻 Author
 
