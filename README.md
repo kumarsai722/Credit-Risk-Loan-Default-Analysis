@@ -36,7 +36,7 @@ Power BI
 Bnak Loan Risk and Approval Analysis/
 Credit-Risk-Loan-Default-Analysis/
 │
-├── Pandas_Data_Cleaning/ → Data cleaning & EDA notebook
+├── Pandas_Data_Cleaning      → Data cleaning & EDA notebook
 
 ├── Sql_query/                → SQL analysis queries
 
