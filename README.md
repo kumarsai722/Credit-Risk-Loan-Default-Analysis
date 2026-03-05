@@ -1,4 +1,4 @@
-# Bnak Loan Risk and Approval Analysis
+# Bank Loan Risk and Approval Analysis
 End-to-End Credit Risk Analysis using Python, SQL &amp; Power BI
 
 📌 Project Overview
