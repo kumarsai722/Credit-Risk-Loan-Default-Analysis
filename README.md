@@ -8,13 +8,13 @@ The analysis was performed using Python (Pandas), SQL, and Power BI.
 
 🎯 Objectives
 
-.>Clean and preprocess raw loan data
-.>Handle missing values using fillna()
-.>Detect null values using isna()
-.>Remove duplicate records using duplicated()
-.>Perform Exploratory Data Analysis (EDA)
-.>Extract key risk insights using SQL
-.>Build an interactive Power BI dashboard
+. Clean and preprocess raw loan data
+. Handle missing values using fillna()
+. Detect null values using isna()
+. Remove duplicate records using duplicated()
+. Perform Exploratory Data Analysis (EDA)
+. Extract key risk insights using SQL
+. Build an interactive Power BI dashboard
 
 🔎 Key Business Insights:
 • High-risk applicants show the lowest approval rate
